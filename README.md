@@ -58,13 +58,3 @@ I am currently a second-year 𝐌.𝐒𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the D
 </p>
 
 
-## More
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givkashi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=givkashi&amp;show_icons=true" alt="GitHub Stats"></p>
-
-
-<!--
-**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
