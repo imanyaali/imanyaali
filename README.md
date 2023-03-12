@@ -18,6 +18,13 @@ I am currently a second-year 𝐌.𝐒𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the D
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   
+ <img src="https://vectorwiki.com/images/R3kOH__fortran.svg" alt="git" width="40" height="40"/>
+  
+  
+  
+  
+  
+  
 <!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  -->
   
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
