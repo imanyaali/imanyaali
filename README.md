@@ -20,6 +20,7 @@ I am currently a second-year 𝐌.𝐒𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the D
   
  <img src="https://vectorwiki.com/images/R3kOH__fortran.svg" alt="git" width="40" height="40"/>
    <img src="https://companieslogo.com/img/orig/ANSS-afc9cd74.png?t=1652258615" alt="git" width="40" height="40"/>
+  <img src="https://vectorwiki.com/images/wABTV__comsol-logo.svg" alt="git" width="40" height="40"/>
  
   
   
