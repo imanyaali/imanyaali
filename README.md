@@ -19,8 +19,8 @@ I am currently a second-year 𝐌.𝐒𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the D
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   
  <img src="https://vectorwiki.com/images/R3kOH__fortran.svg" alt="git" width="40" height="40"/>
-  
-  
+   <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ansys_logo_%282019%29.svg/1200px-Ansys_logo_%282019%29.svg.png" alt="git" width="40" height="40"/>
+ 
   
   
   
