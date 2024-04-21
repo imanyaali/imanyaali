@@ -3,7 +3,7 @@
 <h3 align="center"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanyaali&label=Profile%20views&color=0e75b6&style=flat" alt="imanyaali" /> </p>
 
-I am currently a second-year 𝐌.𝐒𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of Mechanical Engineering, [Isfahan University of Technology](http://english.iut.ac.ir), where I am a master student. My research involves Multiphase flows, Electrohydrodynamics, and drop dynamics.
+I am graduated 𝐌.𝐒𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of Mechanical Engineering, [Isfahan University of Technology](http://english.iut.ac.ir), where I am a master student. My research involves Multiphase flows, Electrohydrodynamics, and drop dynamics.
 
 
 
