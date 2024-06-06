@@ -8,8 +8,8 @@ I am graduated 𝐌.𝐒𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of M
 
 
 ## My main research interests
-- Multiphase flows, Electrohydrodynamics
-- CFD Simulation, CFD Coding
+- Fluid dynamics, Multiphase flows, Electrohydrodynamics
+- Numerical simulations, Physics of soft interfaces
 - Complexfluids,Heat transfer
 
 <h3 align="left">Languages and Tools:</h3>
