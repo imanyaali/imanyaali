@@ -64,7 +64,7 @@ I am graduated 𝐌.𝐒𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 at the Department of M
 |-----------|--------------------|
 | 📧 𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐚𝐲 𝐓𝐨 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 👉 | imanya88@gmail.com |
 | 🌐 ResearchGate 👉 | [ResearchGate](https://www.researchgate.net/profile/https://www.researchgate.net/profile/Iman-Yaali-Jahromi) |
-| 🌐 Google Scholar 👉 | [ResearchGate](https://scholar.google.com/citations?user=eSY8m3oAAAAJ&hl=en&oi=ao) |
+| 🌐 Google Scholar 👉 | [Google Scholar](https://scholar.google.com/citations?user=eSY8m3oAAAAJ&hl=en&oi=ao) |
 
 
 <h3 align="left">Connect with me:</h3>
